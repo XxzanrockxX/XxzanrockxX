@@ -1,5 +1,3 @@
-Para que tu README.md luzca profesional y cumpla con lo que pide la rúbrica, copia y pega el siguiente contenido. Está estructurado para ser claro, técnico y directo al grano, usando la información de tu perfil.
-
 Portafolio Profesional de Luis Fernando Philco
 🚀 Sobre mí
 Desarrollador Frontend en formación, con una sólida base analítica como Economista. Combino la rigurosidad del análisis de datos con el desarrollo de interfaces modernas y funcionales. Especializado en JavaScript (ES6+), React, y CSS avanzado. Enfocado en crear experiencias de usuario fluidas, optimizadas y accesibles.
